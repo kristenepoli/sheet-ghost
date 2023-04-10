@@ -1483,4 +1483,6 @@ input[type="text"] {
   opacity: 0;
 }
 
+.circular--square { border-radius: 50%; }
+
 /*# sourceMappingURL=style.css.map */
